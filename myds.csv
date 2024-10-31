@@ -1,0 +1,661 @@
+Intent,Question,Answer
+Planet_Info,What is the largest planet in our solar system,Jupiter
+Planet_Info,Which planet is known for being the hottest,Venus
+Planet_Info,What is the farthest planet from the Sun,Neptune
+Planet_Info,Which planet has the most moons,Jupiter
+Planet_Info,What is the smallest planet in our solar system,Mercury
+Planet_Info,Which planet is closest to the Sun,Mercury
+Planet_Info,What is the planet with the most rings,Saturn
+Planet_Info,Which planet has the longest day,Venus
+Planet_Info,What is the planet with the strongest magnetic field,Jupiter
+Planet_Info,Which planet has the most volcanoes,Venus
+Planet_Info,Which planet is known for its Great Red Spot,Jupiter
+Planet_Info,What is the atmosphere of Mars primarily composed of,Carbon dioxide
+Planet_Info,Which planet has the most extreme temperature variations,Mercury
+Planet_Info,What is the composition of Saturns rings,Ice and rock particles
+Planet_Info,What is the number of planet in solar system,8
+Planet_Info,How many planet are there in solar system,8
+Planet_Info,How many planet are in solar system,8
+Planet_Info,Which planet are in solar system,"The eight planets in our Solar System, in order from the Sun, are the four terrestrial planets Mercury, Venus, Earth, and Mars, followed by the two gas giants Jupiter and Saturn, and the ice giants Uranus and Neptune."
+Planet_Info,Which planet are there in solar system,"The eight planets in our Solar System, in order from the Sun, are the four terrestrial planets Mercury, Venus, Earth, and Mars, followed by the two gas giants Jupiter and Saturn, and the ice giants Uranus and Neptune."
+Distance_Info,How far is Earth from the Sun,93 million miles (150 million kilometers)
+Distance_Info,What is the distance from Jupiter to the Sun,484 million miles (778 million kilometers)
+Distance_Info,How far is Neptune from the Sun,2.8 billion miles (4.5 billion kilometers)
+Distance_Info,How far is Pluto from the Sun,3.7 billion miles (5.9 billion kilometers)
+Distance_Info,How far is Mars from Earth,Approximately 34 million miles (55 million kilometers)
+Moon_Info,How many moons does Earth have,1
+Moon_Info,Which planet has the most moons,Jupiter
+Moon_Info,What is the largest moon in our solar system,"Ganymede, a moon of Jupiter"
+Moon_Info,How many moons does Mars have,2 - Phobos and Deimos
+Moon_Info,Which moon of Jupiter is known for its volcanic activity,Io
+Moon_Info,Which moon of Saturn is larger than Mercury,Titan
+Moon_Info,What is the largest crater on the Moon,Aitken Basin
+Dwarf_Planet_Info,What is the largest dwarf planet,Pluto
+Dwarf_Planet_Info,What are the known dwarf planets in the solar system,"Pluto, Eris, Haumea, Makemake, and Ceres"
+Dwarf_Planet_Info,Which dwarf planet is located in the asteroid belt,Ceres
+Dwarf_Planet_Info,Which dwarf planet is the farthest from the Sun,Eris
+Satellite_Info,What was the first artificial satellite,"Sputnik 1, launched by the Soviet Union in 1957"
+Satellite_Info,Which was the first satellite launched by NASA,"Explorer 1, launched in 1958"
+Satellite_Info,What is the most famous space telescope,The Hubble Space Telescope
+Satellite_Info,Which satellite was the first to reach Pluto,New Horizons of NASA
+Satellite_Info,What is the name of the satellite that orbits Jupiter,Juno
+Milky_Way_Info,What is the Milky Way,The Milky Way is the galaxy that contains our solar system
+Milky_Way_Info,How many stars are there in the Milky Way,Approximately 100 to 400 billion stars
+Milky_Way_Info,What is at the center of the Milky Way,A supermassive black hole called Sagittarius A*
+Milky_Way_Info,How large is the Milky Way,"It is about 100,000 light-years in diameter"
+Black_Hole_Info,What is a black hole,"A black hole is a region of space where gravity is so strong that nothing, not even light, can escape from it"
+Black_Hole_Info,What happens when something falls into a black hole,"It is pulled in by the extreme gravitational force, and cannot escape"
+Black_Hole_Info,What is the largest type of black hole,"A supermassive black hole, found at the center of most galaxies"
+Constellation_Info,What is a constellation,A constellation is a group of stars that form a recognizable pattern
+Constellation_Info,What are some well-known constellations,"Orion, Ursa Major, and Cassiopeia"
+Constellation_Info,Which constellation is known as the Big Dipper,Ursa Major
+Constellation_Info,Which constellation contains the North Star,"Ursa Minor, which contains Polaris, the North Star"
+Solar_System_Facts,Tell me a fact about the solar system,Jupiters moon Ganymede is larger than the planet Mercury
+Solar_System_Facts,What is a unique feature of Saturn,Saturn has the most extensive ring system of any planet
+Solar_System_Facts,What is an interesting fact about the solar system,"Uranus rotates on its side, unlike any other planet"
+Asteroid_Belt_Info,What is the asteroid belt,The asteroid belt is a region between Mars and Jupiter where most asteroids are found
+Asteroid_Belt_Info,Where is the asteroid belt located,Between the orbits of Mars and Jupiter
+Asteroid_Belt_Info,What is the largest object in the asteroid belt,"Ceres, a dwarf planet"
+Asteroid_Belt_Info,How big are asteroids in the asteroid belt,They vary in size from tiny particles to hundreds of kilometers in diameter
+Asteroid_Info,What is an asteroid,An asteroid is a small rocky body that orbits the Sun
+Asteroid_Info,How are asteroids different from planets,Asteroids are much smaller than planets and lack atmospheres
+Asteroid_Info,Where do most asteroids in the solar system orbit,Most asteroids orbit within the asteroid belt between Mars and Jupiter
+Asteroid_Info,What is the difference between an asteroid and a meteoroid,"Asteroids are larger rocky bodies in space, while meteoroids are smaller fragments or debris"
+Asteroid_Info,What are near-Earth asteroids,Near-Earth asteroids are asteroids that have orbits that come close to Earth
+Meteoroid_Info,What is a meteoroid,"A meteoroid is a small rock or particle in space, often debris from comets or asteroids"
+Meteoroid_Info,What is a meteor,"A meteor is a meteoroid that enters Earths atmosphere and burns up, producing a streak of light"
+Meteoroid_Info,What is a meteorite,A meteorite is a meteoroid that survives its journey through the atmosphere and lands on Earths surface
+Meteoroid_Info,What causes a meteor shower,"Meteor showers occur when Earth passes through debris left by comets, causing many meteors to burn up in the atmosphere"
+Special_Events,What is a solar eclipse,"A solar eclipse occurs when the Moon passes between the Earth and the Sun, blocking the Suns light either partially or fully"
+Special_Events,How often do solar eclipses happen,"On average, a solar eclipse happens somewhere on Earth about every 18 months"
+Special_Events,What is a lunar eclipse,"A lunar eclipse occurs when the Earth passes between the Sun and the Moon, causing the Earths shadow to cover the Moon"
+Special_Events,What is a supermoon,A supermoon occurs when a full moon coincides with the Moon being at its closest point to Earth in its orbit
+Special_Events,What is a planetary alignment,A planetary alignment occurs when several planets appear to line up in the sky from Earths perspective
+Special_Events,How often do planetary alignments occur,"Large planetary alignments, where many planets are visible at once, are rare and can occur every few decades"
+Special_Events,What is a meteor shower,"A meteor shower happens when Earth passes through the debris left by a comet, causing many meteors to be visible in the sky"
+Special_Events,When is the Perseid meteor shower visible,"The Perseid meteor shower is visible every year in August, peaking around the 12th and 13th"
+Special_Events,What is the Great Conjunction,"The Great Conjunction is a rare event when Jupiter and Saturn appear very close to each other in the sky, happening roughly every 20 years"
+Special_Events,What is the significance of the Venus Transit,"A Venus Transit occurs when Venus passes directly between the Earth and the Sun. It is rare and happens in pairs, about eight years apart, every 243 years"
+Special_Events,What causes auroras,"Auroras, also known as the Northern and Southern Lights, are caused by solar wind particles interacting with Earths magnetic field"
+Exoplanet_Info,What is an exoplanet,An exoplanet is a planet that orbits a star outside our solar system
+Exoplanet_Info,How are exoplanets discovered,Exoplanets are usually discovered using the transit method or radial velocity method
+Exoplanet_Info,What is the habitable zone of an exoplanet,The habitable zone is the region around a star where conditions might be right for liquid water to exist on a planet
+Exoplanet_Info,What is the first exoplanet discovered,"The first confirmed exoplanet discovery was in 1992, orbiting a pulsar"
+Supernova_Info,What is a supernova,A supernova is a powerful explosion that occurs when a star reaches the end of its life
+Supernova_Info,What causes a supernova,"A supernova occurs when a massive star runs out of fuel and its core collapses, or when a white dwarf in a binary system accumulates too much mass"
+Supernova_Info,What is left behind after a supernova,"After a supernova, a neutron star or black hole is usually left behind"
+Neutron_Star_Info,What is a neutron star,"A neutron star is the dense, collapsed core of a massive star that exploded as a supernova"
+Neutron_Star_Info,How dense is a neutron star,"Neutron stars are incredibly dense, with a mass greater than the Sun packed into a sphere about 20 kilometers across"
+Neutron_Star_Info,What is a pulsar,"A pulsar is a type of neutron star that emits beams of radiation that sweep across Earth, appearing as pulses of light"
+Planet_Info,What is the revolution period of Mercury,88 Earth days
+Planet_Info,How long is a day on Mercury,58.6 Earth days
+Planet_Info,What is the diameter of Mercury,"4,880 kilometers"
+Planet_Info,What is the surface gravity of Mercury,3.7 m/s²
+Planet_Info,What is the mass of Mercury,3.301 x 10^23 kg
+Planet_Info,What is the composition of Mercurys atmosphere,"Mercury has a thin atmosphere composed mainly of oxygen, sodium, hydrogen, helium, and potassium"
+Planet_Info,How many moons does Mercury have,0
+Planet_Info,What is the revolution period of Venus,225 Earth days
+Planet_Info,How long is a day on Venus,243 Earth days
+Planet_Info,What is the diameter of Venus,"12,104 kilometers"
+Planet_Info,What is the surface gravity of Venus,8.87 m/s²
+Planet_Info,What is the mass of Venus,4.867 x 10^24 kg
+Planet_Info,What is the composition of Venuss atmosphere,"Venuss atmosphere is composed mainly of carbon dioxide, with clouds of sulfuric acid and traces of nitrogen"
+Planet_Info,How many moons does Venus have,0
+Planet_Info,What is the revolution period of Earth,365.25 Earth days
+Planet_Info,How long is a day on Earth,24 hours
+Planet_Info,What is the diameter of Earth,"12,742 kilometers"
+Planet_Info,What is the surface gravity of Earth,9.81 m/s²
+Planet_Info,What is the mass of Earth,5.972 x 10^24 kg
+Planet_Info,What is the composition of Earths atmosphere,"Earths atmosphere is composed mainly of nitrogen (78%), oxygen (21%), and trace gases such as argon and carbon dioxide"
+Planet_Info,How many moons does Earth have,1
+Planet_Info,What is the revolution period of Mars,687 Earth days
+Planet_Info,How long is a day on Mars,24.6 hours
+Planet_Info,What is the diameter of Mars,"6,779 kilometers"
+Planet_Info,What is the surface gravity of Mars,3.71 m/s²
+Planet_Info,What is the mass of Mars,6.417 x 10^23 kg
+Planet_Info,What is the composition of Marss atmosphere,"Marss atmosphere is composed mainly of carbon dioxide (95.3%), with traces of nitrogen and argon"
+Planet_Info,How many moons does Mars have,2 (Phobos and Deimos)
+Planet_Info,What is the revolution period of Jupiter,12 Earth years
+Planet_Info,How long is a day on Jupiter,10 hours
+Planet_Info,What is the diameter of Jupiter,"142,984 kilometers"
+Planet_Info,What is the surface gravity of Jupiter,24.79 m/s²
+Planet_Info,What is the mass of Jupiter,1.898 x 10^27 kg
+Planet_Info,What is the composition of Jupiters atmosphere,"Jupiters atmosphere is composed mainly of hydrogen (90%) and helium (10%), with traces of methane, ammonia, and other gases"
+Planet_Info,How many moons does Jupiter have,79
+Planet_Info,What is the revolution period of Saturn,29.5 Earth years
+Planet_Info,How long is a day on Saturn,10.7 hours
+Planet_Info,What is the diameter of Saturn,"120,536 kilometers"
+Planet_Info,What is the surface gravity of Saturn,10.44 m/s²
+Planet_Info,What is the mass of Saturn,5.683 x 10^26 kg
+Planet_Info,What is the composition of Saturns atmosphere,"Saturns atmosphere is composed mainly of hydrogen (96%) and helium (3%), with traces of methane and ammonia"
+Planet_Info,What is the composition of Saturns rings,Saturns rings are composed primarily of ice particles with a smaller amount of rocky debris and dust
+Planet_Info,How many moons does Saturn have,83
+Planet_Info,What is the revolution period of Uranus,84 Earth years
+Planet_Info,How long is a day on Uranus,17.24 hours
+Planet_Info,What is the diameter of Uranus,"50,724 kilometers"
+Planet_Info,What is the surface gravity of Uranus,8.69 m/s²
+Planet_Info,What is the mass of Uranus,8.681 x 10^25 kg
+Planet_Info,What is the composition of Uranuss atmosphere,"Uranuss atmosphere is composed mainly of hydrogen (83%) and helium (15%), with a higher proportion of methane than Neptune"
+Planet_Info,How many moons does Uranus have,27
+Planet_Info,What is the revolution period of Neptune,165 Earth years
+Planet_Info,How long is a day on Neptune,16 hours
+Planet_Info,What is the diameter of Neptune,"49,244 kilometers"
+Planet_Info,What is the surface gravity of Neptune,11.15 m/s²
+Planet_Info,What is the mass of Neptune,1.024 x 10^26 kg
+Planet_Info,What is the composition of Neptunes atmosphere,"Neptunes atmosphere is composed mainly of hydrogen (80%) and helium (19%), with a significant amount of methane, which gives it its blue color"
+Planet_Info,How many moons does Neptune have,14
+Planet_Info,What is the revolution period of the Sun,"The Sun does not have a revolution period as it is the center of the solar system. However, it completes one rotation approximately every 25 days at the equator and 35 days at the poles."
+Planet_Info,What is the diameter of the Sun,1.39 million kilometers
+Planet_Info,What is the surface gravity of the Sun,274 m/s²
+Planet_Info,What is the mass of the Sun,1.989 x 10^30 kg
+Planet_Info,What is the composition of the Suns atmosphere,"The Suns atmosphere is composed mainly of hydrogen (about 74%) and helium (about 24%), with trace amounts of heavier elements like oxygen, carbon, neon, and iron"
+Planet_Info,How many moons does the Sun have,0
+Planet_Info,What is the revolution period of Pluto,248 Earth years
+Planet_Info,How long is a day on Pluto,6.4 Earth days
+Planet_Info,What is the diameter of Pluto,"2,377 kilometers"
+Planet_Info,What is the surface gravity of Pluto,0.66 m/s²
+Planet_Info,What is the mass of Pluto,1.303 x 10^22 kg
+Planet_Info,What is the composition of Plutos atmosphere,"Plutos atmosphere is composed mainly of nitrogen (with some methane and carbon monoxide), and it is very thin"
+Planet_Info,How many moons does Pluto have,"5 (Charon, Styx, Nix, Kerberos, and Hydra)"
+Planet_Info,What is the largest planet in our solar system,Jupiter
+Planet_Info,Which planet is known for being the hottest,Venus
+Planet_Info,What is the farthest planet from the Sun,Neptune
+Planet_Info,Which planet has the most moons,Jupiter
+Planet_Info,What is the smallest planet in our solar system,Mercury
+Planet_Info,Which planet is closest to the Sun,Mercury
+Planet_Info,What is the planet with the most rings,Saturn
+Planet_Info,Which planet has the longest day,Venus
+Planet_Info,What is the planet with the strongest magnetic field,Jupiter
+Planet_Info,Which planet has the most volcanoes,Venus
+Planet_Info,Which planet is known for its Great Red Spot,Jupiter
+Planet_Info,What is the atmosphere of Mars primarily composed of,Carbon dioxide
+Planet_Info,Which planet has the most extreme temperature variations,Mercury
+Planet_Info,What is the composition of Saturns rings,Ice and rock particles
+Planet_Info,What gases are found in Jupiters atmosphere,Hydrogen and Helium
+Planet_Info,What is the primary component of Venus atmosphere,Carbon dioxide
+Planet_Info,Which planet has an atmosphere made mostly of nitrogen,Earth
+Planet_Info,How many moons does Saturn have,83 confirmed moons
+Planet_Info,What is the largest moon in our solar system,Ganymede (moon of Jupiter)
+Planet_Info,What are Saturns rings made of,Ice and rock particles
+Space_Phenomena,What is the Kuiper Belt,"A region of the solar system beyond Neptune, containing small icy bodies"
+Space_Phenomena,What is the Oort Cloud,A distant cloud of icy objects surrounding the solar system
+Space_Phenomena,What is a black hole,"A region of space where gravity is so strong that nothing, not even light, can escape"
+Space_Missions,Which spacecraft first visited Pluto,New Horizons
+Space_Missions,What was the first mission to land on Mars,Viking 1
+Space_Missions,What is the purpose of the Voyager mission,To study the outer planets and interstellar space
+Planet_Info,Which planet has the tallest volcano,Mars (Olympus Mons)
+Planet_Info,What is the Great Red Spot on Jupiter,A giant storm larger than Earth that has lasted for centuries
+Planet_Info,Which planet has the longest canyon system,Mars (Valles Marineris)
+Solar_System,How old is the solar system,Approximately 4.6 billion years old
+Solar_System,What is the Sun primarily made of,Hydrogen and Helium
+Solar_System,How long does light from the Sun take to reach Earth,About 8 minutes and 20 seconds
+Solar_System,How long does it take for light to travel from the Sun to Pluto,About 5.5 hours
+Solar_System,How long does it take for Earth to orbit the Sun,365.25 days
+Solar_System,What is the distance between Earth and Mars,"Between 54.6 million km and 401 million km, depending on their orbits"
+Planet_Exploration,Which planet did the Curiosity rover explore,Mars
+Planet_Exploration,Which planet was first visited by the Voyager 2 spacecraft,Jupiter
+Planet_Exploration,What is the first planet to have a spacecraft land on it,Venus (Venera 7 mission)
+Solar_System,Which planets in our solar system have no moons,Mercury and Venus
+Solar_System,Which planet has the shortest day,Jupiter (about 10 hours)
+Solar_System,Which planet has the slowest rotation,Venus (243 Earth days)
+Solar_Phenomena,What is a solar flare,A sudden eruption of intense high-energy radiation from the Suns surface
+Solar_Phenomena,What is a solar eclipse,"An event where the Moon passes between the Sun and Earth, blocking the Suns light"
+Solar_Phenomena,What causes the auroras on Earth,Charged particles from the Sun interacting with Earths magnetic field
+Space_Objects,What is a comet,"A small icy body that releases gas and dust, forming a glowing coma and tail as it approaches the Sun"
+Space_Objects,What is an asteroid,"A rocky object that orbits the Sun, mostly found in the asteroid belt between Mars and Jupiter"
+Space_Objects,What is a meteor,"A meteoroid that enters Earths atmosphere and burns up, creating a streak of light"
+Earth_Moon,How many times does the Moon orbit the Earth in a year,About 12 times
+Earth_Moon,What is the surface of the Moon mostly made of,Basalt and other volcanic rock
+Earth_Moon,How long does it take for the Moon to complete one rotation,"27.3 days, which is the same time it takes to orbit Earth"
+Space_Forces,What is the force that keeps planets in orbit around the Sun,Gravity
+Space_Forces,Why do astronauts float in space,"Because they are in a state of freefall, creating the sensation of weightlessness"
+Space_Forces,What is escape velocity,The speed needed for an object to escape the gravitational pull of a planet or other body
+Space_Technology,What is the function of a space telescope,"To observe distant planets, stars, and galaxies from outside Earths atmosphere"
+Space_Technology,What is the International Space Station,A space station orbiting Earth where astronauts live and conduct research
+Space_Technology,What are reusable rockets,"Rockets that can be launched, landed, and launched again, reducing the cost of space exploration"
+Astrobiology,What is the study of life beyond Earth called,Astrobiology
+Astrobiology,Which planet is considered the best candidate for finding life in the solar system,"Mars, due to evidence of past water"
+Astrobiology,What is the habitable zone,The region around a star where conditions might be right for liquid water to exist on a planet
+Planet_Info,Which planet has the longest seasons,Uranus (each season lasts about 21 Earth years)
+Planet_Info,Which planet has the fastest winds,"Neptune (wind speeds can reach up to 2,100 km/h)"
+Planet_Info,Which planet experiences the most extreme seasons,"Mars, due to its elliptical orbit and tilt"
+Space_Distances,How far is the Sun from the center of the Milky Way,"About 26,000 light-years"
+Space_Distances,What is the distance between the Earth and the Moon,"Approximately 384,400 kilometers"
+Space_Distances,How far is the nearest star system from Earth,Alpha Centauri is about 4.37 light-years away
+Space_Exploration,What was the first manned mission to land on the Moon,Apollo 11
+Space_Exploration,Who was the first human to travel into space,"Yuri Gagarin, in 1961"
+Space_Exploration,What is the name of the first artificial satellite launched into space,"Sputnik 1, launched by the Soviet Union"
+Exoplanets,What is an exoplanet,A planet that orbits a star outside our solar system
+Exoplanets,Which exoplanet is closest to Earth,"Proxima Centauri b, located 4.24 light-years away"
+Exoplanets,"What is a ""habitable zone"" in another star system",The region around a star where liquid water could exist on a planet
+Space_Phenomena,What is a supernova,An explosion of a star at the end of its life cycle
+Space_Phenomena,What is a neutron star,The dense remnant of a massive star that has exploded in a supernova
+Space_Phenomena,What is a pulsar,A type of neutron star that emits beams of radiation that sweep through space
+Space_Agencies,What is NASA,"The National Aeronautics and Space Administration, the U.S. space agency"
+Space_Agencies,What is ESA,"The European Space Agency, responsible for space exploration in Europe"
+Space_Agencies,What is ISRO,"The Indian Space Research Organisation, responsible for Indias space exploration"
+Astronomy,What is an astronomical unit (AU),"The average distance between Earth and the Sun, about 150 million kilometers"
+Astronomy,What is a light-year,"The distance light travels in one year, about 9.46 trillion kilometers"
+Astronomy,What is a parsec,"A unit of distance used in astronomy, equivalent to about 3.26 light-years"
+Space_History,What year was the Hubble Space Telescope launched,1990
+Space_History,Who was the first person to walk on the Moon,"Neil Armstrong, in 1969"
+Space_History,When did the International Space Station begin construction,In 1998
+Planet_Info,Which planets are there in our solar system,"The eight planets in our Solar System, in order from the Sun, are the four terrestrial planets Mercury, Venus, Earth, and Mars, followed by the two gas giants Jupiter and Saturn, and the ice giants Uranus and Neptune."
+Planet_Info,Which are the planets in our solar system,"The eight planets in our Solar System, in order from the Sun, are the four terrestrial planets Mercury, Venus, Earth, and Mars, followed by the two gas giants Jupiter and Saturn, and the ice giants Uranus and Neptune."
+Planet_Info,Which are the planets in the solar system,"The eight planets in our Solar System, in order from the Sun, are the four terrestrial planets Mercury, Venus, Earth, and Mars, followed by the two gas giants Jupiter and Saturn, and the ice giants Uranus and Neptune."
+Planet_Info,What is the color of Mercury,Gray
+Planet_Info,What is the colour of Mercury,Gray
+Planet_Info,Which colour do the Mercury have,Gray
+Planet_Info,Which colour does Mercury have,Gray
+Planet_Info,Which color do Mercury have,Gray
+Planet_Info,Which color does the Mercury have,Gray
+Planet_Info,What moons does the Mercury have,It has no Moon
+Planet_Info,What moons do the Mercury have,It has no Moon
+Planet_Info,What moons does Mercury have,It has no Moon
+Planet_Info,What moons do Mercury have,It has no Moon
+Planet_Info,What is Mercurys revolution period,88 Earth days
+Planet_Info,What is the Mercurys revolution period,88 Earth days
+Planet_Info,What is revolution period of the Mercury ,88 Earth days
+Planet_Info,What is the revolution period of the Mercury ,88 Earth days
+Planet_Info,What is the revolution period of Mercury ,88 Earth days
+Planet_Info,What is revolution period of Mercury ,88 Earth days
+Planet_Info,What is Mercurys rotation period,58.6 Earth days
+Planet_Info,What is the Mercurys rotation period,58.6 Earth days
+Planet_Info,What is rotation period of the Mercury ,58.6 Earth days
+Planet_Info,What is the rotation period of the Mercury ,58.6 Earth days
+Planet_Info,What is the rotation period of Mercury ,58.6 Earth days
+Planet_Info,What is rotation period of Mercury ,58.6 Earth days
+Planet_Info,What is Mercurys size (diameter),"4,880 km"
+Planet_Info,What is the Mercurys size (diameter),"4,880 km"
+Planet_Info,What is size (diameter) of the Mercury ,"4,880 km"
+Planet_Info,What is the size (diameter) of the Mercury ,"4,880 km"
+Planet_Info,What is the size (diameter) of Mercury ,"4,880 km"
+Planet_Info,What is size (diameter) of Mercury ,"4,880 km"
+Planet_Info,What is Mercurys gravity,3.7 m/s²
+Planet_Info,What is the Mercurys gravity,3.7 m/s²
+Planet_Info,What is gravity of the Mercury ,3.7 m/s²
+Planet_Info,What is the gravity of the Mercury ,3.7 m/s²
+Planet_Info,What is the gravity of Mercury ,3.7 m/s²
+Planet_Info,What is gravity of Mercury ,3.7 m/s²
+Planet_Info,What is Mercurys mass,3.30 x 10^23 kg
+Planet_Info,What is the Mercurys mass,3.30 x 10^23 kg
+Planet_Info,What is mass of the Mercury ,3.30 x 10^23 kg
+Planet_Info,What is the mass of the Mercury ,3.30 x 10^23 kg
+Planet_Info,What is the mass of Mercury ,3.30 x 10^23 kg
+Planet_Info,What is mass of Mercury ,3.30 x 10^23 kg
+Planet_Info,What is Mercurys atmosphere composition,"Thin atmosphere, mostly oxygen and sodium"
+Planet_Info,What is the Mercurys atmosphere composition,"Thin atmosphere, mostly oxygen and sodium"
+Planet_Info,What is atmosphere composition of the Mercury ,"Thin atmosphere, mostly oxygen and sodium"
+Planet_Info,What is the atmosphere composition of the Mercury ,"Thin atmosphere, mostly oxygen and sodium"
+Planet_Info,What is the atmosphere composition of Mercury ,"Thin atmosphere, mostly oxygen and sodium"
+Planet_Info,What is atmosphere composition of Mercury ,"Thin atmosphere, mostly oxygen and sodium"
+Planet_Info,What is Mercurys number of moons,0
+Planet_Info,What is the Mercurys number of moons,0
+Planet_Info,What is number of moons of the Mercury ,0
+Planet_Info,What is the number of moons of the Mercury ,0
+Planet_Info,What is the number of moons of Mercury ,0
+Planet_Info,What is number of moons of Mercury ,0
+Planet_Info,What is the color of Venus,Yellowish-white
+Planet_Info,What is the colour of Venus,Yellowish-white
+Planet_Info,Which colour do the Venus have,Yellowish-white
+Planet_Info,Which colour does Venus have,Yellowish-white
+Planet_Info,Which color do Venus have,Yellowish-white
+Planet_Info,Which color does the Venus have,Yellowish-white
+Planet_Info,What moons does the Venus have,It has no Moon
+Planet_Info,What moons do the Venus have,It has no Moon
+Planet_Info,What moons does Venus have,It has no Moon
+Planet_Info,What moons do Venus have,It has no Moon
+Planet_Info,What is Venuss revolution period,225 Earth days
+Planet_Info,What is the Venuss revolution period,225 Earth days
+Planet_Info,What is revolution period of the Venus ,225 Earth days
+Planet_Info,What is the revolution period of the Venus ,225 Earth days
+Planet_Info,What is the revolution period of Venus ,225 Earth days
+Planet_Info,What is revolution period of Venus ,225 Earth days
+Planet_Info,What is Venuss rotation period,243 Earth days (retrograde)
+Planet_Info,What is the Venuss rotation period,243 Earth days (retrograde)
+Planet_Info,What is rotation period of the Venus ,243 Earth days (retrograde)
+Planet_Info,What is the rotation period of the Venus ,243 Earth days (retrograde)
+Planet_Info,What is the rotation period of Venus ,243 Earth days (retrograde)
+Planet_Info,What is rotation period of Venus ,243 Earth days (retrograde)
+Planet_Info,What is Venuss size (diameter),"12,104 km"
+Planet_Info,What is the Venuss size (diameter),"12,104 km"
+Planet_Info,What is size (diameter) of the Venus ,"12,104 km"
+Planet_Info,What is the size (diameter) of the Venus ,"12,104 km"
+Planet_Info,What is the size (diameter) of Venus ,"12,104 km"
+Planet_Info,What is size (diameter) of Venus ,"12,104 km"
+Planet_Info,What is Venuss gravity,8.87 m/s²
+Planet_Info,What is the Venuss gravity,8.87 m/s²
+Planet_Info,What is gravity of the Venus ,8.87 m/s²
+Planet_Info,What is the gravity of the Venus ,8.87 m/s²
+Planet_Info,What is the gravity of Venus ,8.87 m/s²
+Planet_Info,What is gravity of Venus ,8.87 m/s²
+Planet_Info,What is Venuss mass,4.87 x 10^24 kg
+Planet_Info,What is the Venuss mass,4.87 x 10^24 kg
+Planet_Info,What is mass of the Venus ,4.87 x 10^24 kg
+Planet_Info,What is the mass of the Venus ,4.87 x 10^24 kg
+Planet_Info,What is the mass of Venus ,4.87 x 10^24 kg
+Planet_Info,What is mass of Venus ,4.87 x 10^24 kg
+Planet_Info,What is Venuss atmosphere composition,"Thick atmosphere, mostly carbon dioxide and nitrogen"
+Planet_Info,What is the Venuss atmosphere composition,"Thick atmosphere, mostly carbon dioxide and nitrogen"
+Planet_Info,What is atmosphere composition of the Venus ,"Thick atmosphere, mostly carbon dioxide and nitrogen"
+Planet_Info,What is the atmosphere composition of the Venus ,"Thick atmosphere, mostly carbon dioxide and nitrogen"
+Planet_Info,What is the atmosphere composition of Venus ,"Thick atmosphere, mostly carbon dioxide and nitrogen"
+Planet_Info,What is atmosphere composition of Venus ,"Thick atmosphere, mostly carbon dioxide and nitrogen"
+Planet_Info,What is Venuss number of moons,0
+Planet_Info,What is the Venuss number of moons,0
+Planet_Info,What is number of moons of the Venus ,0
+Planet_Info,What is the number of moons of the Venus ,0
+Planet_Info,What is the number of moons of Venus ,0
+Planet_Info,What is number of moons of Venus ,0
+Planet_Info,What is the color of Earth,Blue and green
+Planet_Info,What is the colour of Earth,Blue and green
+Planet_Info,Which colour do the Earth have,Blue and green
+Planet_Info,Which colour does Earth have,Blue and green
+Planet_Info,Which color do Earth have,Blue and green
+Planet_Info,Which color does the Earth have,Blue and green
+Planet_Info,What moons does the Earth have,Moon
+Planet_Info,What moons do the Earth have,Moon
+Planet_Info,What moons does Earth have,Moon
+Planet_Info,What moons do Earth have,Moon
+Planet_Info,What is Earths revolution period,365.25 Earth days
+Planet_Info,What is the Earths revolution period,365.25 Earth days
+Planet_Info,What is revolution period of the Earth ,365.25 Earth days
+Planet_Info,What is the revolution period of the Earth ,365.25 Earth days
+Planet_Info,What is the revolution period of Earth ,365.25 Earth days
+Planet_Info,What is revolution period of Earth ,365.25 Earth days
+Planet_Info,What is Earths rotation period,24 hours
+Planet_Info,What is the Earths rotation period,24 hours
+Planet_Info,What is rotation period of the Earth ,24 hours
+Planet_Info,What is the rotation period of the Earth ,24 hours
+Planet_Info,What is the rotation period of Earth ,24 hours
+Planet_Info,What is rotation period of Earth ,24 hours
+Planet_Info,What is Earths size (diameter),"12,742 km"
+Planet_Info,What is the Earths size (diameter),"12,742 km"
+Planet_Info,What is size (diameter) of the Earth ,"12,742 km"
+Planet_Info,What is the size (diameter) of the Earth ,"12,742 km"
+Planet_Info,What is the size (diameter) of Earth ,"12,742 km"
+Planet_Info,What is size (diameter) of Earth ,"12,742 km"
+Planet_Info,What is Earths gravity,9.81 m/s²
+Planet_Info,What is the Earths gravity,9.81 m/s²
+Planet_Info,What is gravity of the Earth ,9.81 m/s²
+Planet_Info,What is the gravity of the Earth ,9.81 m/s²
+Planet_Info,What is the gravity of Earth ,9.81 m/s²
+Planet_Info,What is gravity of Earth ,9.81 m/s²
+Planet_Info,What is Earths mass,5.97 x 10^24 kg
+Planet_Info,What is the Earths mass,5.97 x 10^24 kg
+Planet_Info,What is mass of the Earth ,5.97 x 10^24 kg
+Planet_Info,What is the mass of the Earth ,5.97 x 10^24 kg
+Planet_Info,What is the mass of Earth ,5.97 x 10^24 kg
+Planet_Info,What is mass of Earth ,5.97 x 10^24 kg
+Planet_Info,What is Earths atmosphere composition,"78% nitrogen, 21% oxygen, 1% other gases"
+Planet_Info,What is the Earths atmosphere composition,"78% nitrogen, 21% oxygen, 1% other gases"
+Planet_Info,What is atmosphere composition of the Earth ,"78% nitrogen, 21% oxygen, 1% other gases"
+Planet_Info,What is the atmosphere composition of the Earth ,"78% nitrogen, 21% oxygen, 1% other gases"
+Planet_Info,What is the atmosphere composition of Earth ,"78% nitrogen, 21% oxygen, 1% other gases"
+Planet_Info,What is atmosphere composition of Earth ,"78% nitrogen, 21% oxygen, 1% other gases"
+Planet_Info,What is Earths number of moons,1
+Planet_Info,What is the Earths number of moons,1
+Planet_Info,What is number of moons of the Earth ,1
+Planet_Info,What is the number of moons of the Earth ,1
+Planet_Info,What is the number of moons of Earth ,1
+Planet_Info,What is number of moons of Earth ,1
+Planet_Info,What is the color of Mars,Red
+Planet_Info,What is the colour of Mars,Red
+Planet_Info,Which colour do the Mars have,Red
+Planet_Info,Which colour does Mars have,Red
+Planet_Info,Which color do Mars have,Red
+Planet_Info,Which color does the Mars have,Red
+Planet_Info,What moons does the Mars have,"Phobos, Deimos"
+Planet_Info,What moons do the Mars have,"Phobos, Deimos"
+Planet_Info,What moons does Mars have,"Phobos, Deimos"
+Planet_Info,What moons do Mars have,"Phobos, Deimos"
+Planet_Info,What is Marss revolution period,687 Earth days
+Planet_Info,What is the Marss revolution period,687 Earth days
+Planet_Info,What is revolution period of the Mars ,687 Earth days
+Planet_Info,What is the revolution period of the Mars ,687 Earth days
+Planet_Info,What is the revolution period of Mars ,687 Earth days
+Planet_Info,What is revolution period of Mars ,687 Earth days
+Planet_Info,What is Marss rotation period,24.6 hours
+Planet_Info,What is the Marss rotation period,24.6 hours
+Planet_Info,What is rotation period of the Mars ,24.6 hours
+Planet_Info,What is the rotation period of the Mars ,24.6 hours
+Planet_Info,What is the rotation period of Mars ,24.6 hours
+Planet_Info,What is rotation period of Mars ,24.6 hours
+Planet_Info,What is Marss size (diameter),"6,779 km"
+Planet_Info,What is the Marss size (diameter),"6,779 km"
+Planet_Info,What is size (diameter) of the Mars ,"6,779 km"
+Planet_Info,What is the size (diameter) of the Mars ,"6,779 km"
+Planet_Info,What is the size (diameter) of Mars ,"6,779 km"
+Planet_Info,What is size (diameter) of Mars ,"6,779 km"
+Planet_Info,What is Marss gravity,3.71 m/s²
+Planet_Info,What is the Marss gravity,3.71 m/s²
+Planet_Info,What is gravity of the Mars ,3.71 m/s²
+Planet_Info,What is the gravity of the Mars ,3.71 m/s²
+Planet_Info,What is the gravity of Mars ,3.71 m/s²
+Planet_Info,What is gravity of Mars ,3.71 m/s²
+Planet_Info,What is Marss mass,0.641 x 10^24 kg
+Planet_Info,What is the Marss mass,0.641 x 10^24 kg
+Planet_Info,What is mass of the Mars ,0.641 x 10^24 kg
+Planet_Info,What is the mass of the Mars ,0.641 x 10^24 kg
+Planet_Info,What is the mass of Mars ,0.641 x 10^24 kg
+Planet_Info,What is mass of Mars ,0.641 x 10^24 kg
+Planet_Info,What is Marss atmosphere composition,"95% carbon dioxide, 3% nitrogen"
+Planet_Info,What is the Marss atmosphere composition,"95% carbon dioxide, 3% nitrogen"
+Planet_Info,What is atmosphere composition of the Mars ,"95% carbon dioxide, 3% nitrogen"
+Planet_Info,What is the atmosphere composition of the Mars ,"95% carbon dioxide, 3% nitrogen"
+Planet_Info,What is the atmosphere composition of Mars ,"95% carbon dioxide, 3% nitrogen"
+Planet_Info,What is atmosphere composition of Mars ,"95% carbon dioxide, 3% nitrogen"
+Planet_Info,What is Marss number of moons,2
+Planet_Info,What is the Marss number of moons,2
+Planet_Info,What is number of moons of the Mars ,2
+Planet_Info,What is the number of moons of the Mars ,2
+Planet_Info,What is the number of moons of Mars ,2
+Planet_Info,What is number of moons of Mars ,2
+Planet_Info,What is the color of Jupiter,"Brown, white, and red bands"
+Planet_Info,What is the colour of Jupiter,"Brown, white, and red bands"
+Planet_Info,Which colour do the Jupiter have,"Brown, white, and red bands"
+Planet_Info,Which colour does Jupiter have,"Brown, white, and red bands"
+Planet_Info,Which color do Jupiter have,"Brown, white, and red bands"
+Planet_Info,Which color does the Jupiter have,"Brown, white, and red bands"
+Planet_Info,What moons does the Jupiter have,"Io, Europa, Ganymede, Callisto, Amalthea, Himalia, Elara, Pasiphae, Sinope, Lysithea, Carme, Ananke, Leda, Thebe, Adrastea, Metis"
+Planet_Info,What moons do the Jupiter have,"Io, Europa, Ganymede, Callisto, Amalthea, Himalia, Elara, Pasiphae, Sinope, Lysithea, Carme, Ananke, Leda, Thebe, Adrastea, Metis"
+Planet_Info,What moons does Jupiter have,"Io, Europa, Ganymede, Callisto, Amalthea, Himalia, Elara, Pasiphae, Sinope, Lysithea, Carme, Ananke, Leda, Thebe, Adrastea, Metis"
+Planet_Info,What moons do Jupiter have,"Io, Europa, Ganymede, Callisto, Amalthea, Himalia, Elara, Pasiphae, Sinope, Lysithea, Carme, Ananke, Leda, Thebe, Adrastea, Metis"
+Planet_Info,What is Jupiters revolution period,11.86 Earth years
+Planet_Info,What is the Jupiters revolution period,11.86 Earth years
+Planet_Info,What is revolution period of the Jupiter ,11.86 Earth years
+Planet_Info,What is the revolution period of the Jupiter ,11.86 Earth years
+Planet_Info,What is the revolution period of Jupiter ,11.86 Earth years
+Planet_Info,What is revolution period of Jupiter ,11.86 Earth years
+Planet_Info,What is Jupiters rotation period,9.9 hours
+Planet_Info,What is the Jupiters rotation period,9.9 hours
+Planet_Info,What is rotation period of the Jupiter ,9.9 hours
+Planet_Info,What is the rotation period of the Jupiter ,9.9 hours
+Planet_Info,What is the rotation period of Jupiter ,9.9 hours
+Planet_Info,What is rotation period of Jupiter ,9.9 hours
+Planet_Info,What is Jupiters size (diameter),"139,820 km"
+Planet_Info,What is the Jupiters size (diameter),"139,820 km"
+Planet_Info,What is size (diameter) of the Jupiter ,"139,820 km"
+Planet_Info,What is the size (diameter) of the Jupiter ,"139,820 km"
+Planet_Info,What is the size (diameter) of Jupiter ,"139,820 km"
+Planet_Info,What is size (diameter) of Jupiter ,"139,820 km"
+Planet_Info,What is Jupiters gravity,24.79 m/s²
+Planet_Info,What is the Jupiters gravity,24.79 m/s²
+Planet_Info,What is gravity of the Jupiter ,24.79 m/s²
+Planet_Info,What is the gravity of the Jupiter ,24.79 m/s²
+Planet_Info,What is the gravity of Jupiter ,24.79 m/s²
+Planet_Info,What is gravity of Jupiter ,24.79 m/s²
+Planet_Info,What is Jupiters mass,1.90 x 10^27 kg
+Planet_Info,What is the Jupiters mass,1.90 x 10^27 kg
+Planet_Info,What is mass of the Jupiter ,1.90 x 10^27 kg
+Planet_Info,What is the mass of the Jupiter ,1.90 x 10^27 kg
+Planet_Info,What is the mass of Jupiter ,1.90 x 10^27 kg
+Planet_Info,What is mass of Jupiter ,1.90 x 10^27 kg
+Planet_Info,What is Jupiters atmosphere composition,Mostly hydrogen and helium
+Planet_Info,What is the Jupiters atmosphere composition,Mostly hydrogen and helium
+Planet_Info,What is atmosphere composition of the Jupiter ,Mostly hydrogen and helium
+Planet_Info,What is the atmosphere composition of the Jupiter ,Mostly hydrogen and helium
+Planet_Info,What is the atmosphere composition of Jupiter ,Mostly hydrogen and helium
+Planet_Info,What is atmosphere composition of Jupiter ,Mostly hydrogen and helium
+Planet_Info,What is Jupiters number of moons,95
+Planet_Info,What is the Jupiters number of moons,95
+Planet_Info,What is number of moons of the Jupiter ,95
+Planet_Info,What is the number of moons of the Jupiter ,95
+Planet_Info,What is the number of moons of Jupiter ,95
+Planet_Info,What is number of moons of Jupiter ,95
+Planet_Info,What is the color of Saturn,Pale yellow with rings
+Planet_Info,What is the colour of Saturn,Pale yellow with rings
+Planet_Info,Which colour do the Saturn have,Pale yellow with rings
+Planet_Info,Which colour does Saturn have,Pale yellow with rings
+Planet_Info,Which color do Saturn have,Pale yellow with rings
+Planet_Info,Which color does the Saturn have,Pale yellow with rings
+Planet_Info,What moons does the Saturn have,"Titan, Rhea, Iapetus, Dione, Tethys, Enceladus, Mimas, Hyperion, Phoebe, Janus, Epimetheus, Prometheus, Pandora, Helene, Telesto, Calypso, Atlas, Pan"
+Planet_Info,What moons do the Saturn have,"Titan, Rhea, Iapetus, Dione, Tethys, Enceladus, Mimas, Hyperion, Phoebe, Janus, Epimetheus, Prometheus, Pandora, Helene, Telesto, Calypso, Atlas, Pan"
+Planet_Info,What moons does Saturn have,"Titan, Rhea, Iapetus, Dione, Tethys, Enceladus, Mimas, Hyperion, Phoebe, Janus, Epimetheus, Prometheus, Pandora, Helene, Telesto, Calypso, Atlas, Pan"
+Planet_Info,What moons do Saturn have,"Titan, Rhea, Iapetus, Dione, Tethys, Enceladus, Mimas, Hyperion, Phoebe, Janus, Epimetheus, Prometheus, Pandora, Helene, Telesto, Calypso, Atlas, Pan"
+Planet_Info,What is Saturns revolution period,29.46 Earth years
+Planet_Info,What is the Saturns revolution period,29.46 Earth years
+Planet_Info,What is revolution period of the Saturn ,29.46 Earth years
+Planet_Info,What is the revolution period of the Saturn ,29.46 Earth years
+Planet_Info,What is the revolution period of Saturn ,29.46 Earth years
+Planet_Info,What is revolution period of Saturn ,29.46 Earth years
+Planet_Info,What is Saturns rotation period,10.7 hours
+Planet_Info,What is the Saturns rotation period,10.7 hours
+Planet_Info,What is rotation period of the Saturn ,10.7 hours
+Planet_Info,What is the rotation period of the Saturn ,10.7 hours
+Planet_Info,What is the rotation period of Saturn ,10.7 hours
+Planet_Info,What is rotation period of Saturn ,10.7 hours
+Planet_Info,What is Saturns size (diameter),"116,460 km"
+Planet_Info,What is the Saturns size (diameter),"116,460 km"
+Planet_Info,What is size (diameter) of the Saturn ,"116,460 km"
+Planet_Info,What is the size (diameter) of the Saturn ,"116,460 km"
+Planet_Info,What is the size (diameter) of Saturn ,"116,460 km"
+Planet_Info,What is size (diameter) of Saturn ,"116,460 km"
+Planet_Info,What is Saturns gravity,10.44 m/s²
+Planet_Info,What is the Saturns gravity,10.44 m/s²
+Planet_Info,What is gravity of the Saturn ,10.44 m/s²
+Planet_Info,What is the gravity of the Saturn ,10.44 m/s²
+Planet_Info,What is the gravity of Saturn ,10.44 m/s²
+Planet_Info,What is gravity of Saturn ,10.44 m/s²
+Planet_Info,What is Saturns mass,5.68 x 10^26 kg
+Planet_Info,What is the Saturns mass,5.68 x 10^26 kg
+Planet_Info,What is mass of the Saturn ,5.68 x 10^26 kg
+Planet_Info,What is the mass of the Saturn ,5.68 x 10^26 kg
+Planet_Info,What is the mass of Saturn ,5.68 x 10^26 kg
+Planet_Info,What is mass of Saturn ,5.68 x 10^26 kg
+Planet_Info,What is Saturns atmosphere composition,Mostly hydrogen and helium
+Planet_Info,What is the Saturns atmosphere composition,Mostly hydrogen and helium
+Planet_Info,What is atmosphere composition of the Saturn ,Mostly hydrogen and helium
+Planet_Info,What is the atmosphere composition of the Saturn ,Mostly hydrogen and helium
+Planet_Info,What is the atmosphere composition of Saturn ,Mostly hydrogen and helium
+Planet_Info,What is atmosphere composition of Saturn ,Mostly hydrogen and helium
+Planet_Info,What is Saturns number of moons,83
+Planet_Info,What is the Saturns number of moons,83
+Planet_Info,What is number of moons of the Saturn ,83
+Planet_Info,What is the number of moons of the Saturn ,83
+Planet_Info,What is the number of moons of Saturn ,83
+Planet_Info,What is number of moons of Saturn ,83
+Planet_Info,What is the color of Uranus,Light blue
+Planet_Info,What is the colour of Uranus,Light blue
+Planet_Info,Which colour do the Uranus have,Light blue
+Planet_Info,Which colour does Uranus have,Light blue
+Planet_Info,Which color do Uranus have,Light blue
+Planet_Info,Which color does the Uranus have,Light blue
+Planet_Info,What moons does the Uranus have,"Miranda, Ariel, Umbriel, Titania, Oberon, Caliban, Sycorax, Prospero, Setebos, Stephano, Trinculo, Francisco, Margaret, Ferdinand, Perdita, Mab, Cupid"
+Planet_Info,What moons do the Uranus have,"Miranda, Ariel, Umbriel, Titania, Oberon, Caliban, Sycorax, Prospero, Setebos, Stephano, Trinculo, Francisco, Margaret, Ferdinand, Perdita, Mab, Cupid"
+Planet_Info,What moons does Uranus have,"Miranda, Ariel, Umbriel, Titania, Oberon, Caliban, Sycorax, Prospero, Setebos, Stephano, Trinculo, Francisco, Margaret, Ferdinand, Perdita, Mab, Cupid"
+Planet_Info,What moons do Uranus have,"Miranda, Ariel, Umbriel, Titania, Oberon, Caliban, Sycorax, Prospero, Setebos, Stephano, Trinculo, Francisco, Margaret, Ferdinand, Perdita, Mab, Cupid"
+Planet_Info,What is Uranuss revolution period,84 Earth years
+Planet_Info,What is the Uranuss revolution period,84 Earth years
+Planet_Info,What is revolution period of the Uranus ,84 Earth years
+Planet_Info,What is the revolution period of the Uranus ,84 Earth years
+Planet_Info,What is the revolution period of Uranus ,84 Earth years
+Planet_Info,What is revolution period of Uranus ,84 Earth years
+Planet_Info,What is Uranuss rotation period,17.2 hours
+Planet_Info,What is the Uranuss rotation period,17.2 hours
+Planet_Info,What is rotation period of the Uranus ,17.2 hours
+Planet_Info,What is the rotation period of the Uranus ,17.2 hours
+Planet_Info,What is the rotation period of Uranus ,17.2 hours
+Planet_Info,What is rotation period of Uranus ,17.2 hours
+Planet_Info,What is Uranuss size (diameter),"50,724 km"
+Planet_Info,What is the Uranuss size (diameter),"50,724 km"
+Planet_Info,What is size (diameter) of the Uranus ,"50,724 km"
+Planet_Info,What is the size (diameter) of the Uranus ,"50,724 km"
+Planet_Info,What is the size (diameter) of Uranus ,"50,724 km"
+Planet_Info,What is size (diameter) of Uranus ,"50,724 km"
+Planet_Info,What is Uranuss gravity,8.69 m/s²
+Planet_Info,What is the Uranuss gravity,8.69 m/s²
+Planet_Info,What is gravity of the Uranus ,8.69 m/s²
+Planet_Info,What is the gravity of the Uranus ,8.69 m/s²
+Planet_Info,What is the gravity of Uranus ,8.69 m/s²
+Planet_Info,What is gravity of Uranus ,8.69 m/s²
+Planet_Info,What is Uranuss mass,8.68 x 10^25 kg
+Planet_Info,What is the Uranuss mass,8.68 x 10^25 kg
+Planet_Info,What is mass of the Uranus ,8.68 x 10^25 kg
+Planet_Info,What is the mass of the Uranus ,8.68 x 10^25 kg
+Planet_Info,What is the mass of Uranus ,8.68 x 10^25 kg
+Planet_Info,What is mass of Uranus ,8.68 x 10^25 kg
+Planet_Info,What is Uranuss atmosphere composition,Mostly hydrogen and helium
+Planet_Info,What is the Uranuss atmosphere composition,Mostly hydrogen and helium
+Planet_Info,What is atmosphere composition of the Uranus ,Mostly hydrogen and helium
+Planet_Info,What is the atmosphere composition of the Uranus ,Mostly hydrogen and helium
+Planet_Info,What is the atmosphere composition of Uranus ,Mostly hydrogen and helium
+Planet_Info,What is atmosphere composition of Uranus ,Mostly hydrogen and helium
+Planet_Info,What is Uranuss number of moons,27
+Planet_Info,What is the Uranuss number of moons,27
+Planet_Info,What is number of moons of the Uranus ,27
+Planet_Info,What is the number of moons of the Uranus ,27
+Planet_Info,What is the number of moons of Uranus ,27
+Planet_Info,What is number of moons of Uranus ,27
+Planet_Info,What is the color of Neptune,Deep blue
+Planet_Info,What is the colour of Neptune,Deep blue
+Planet_Info,Which colour do the Neptune have,Deep blue
+Planet_Info,Which colour does Neptune have,Deep blue
+Planet_Info,Which color do Neptune have,Deep blue
+Planet_Info,Which color does the Neptune have,Deep blue
+Planet_Info,What moons does the Neptune have,"Triton, Nereid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Halimede, Psamathe, Sao, Laomedeia, Neso"
+Planet_Info,What moons do the Neptune have,"Triton, Nereid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Halimede, Psamathe, Sao, Laomedeia, Neso"
+Planet_Info,What moons does Neptune have,"Triton, Nereid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Halimede, Psamathe, Sao, Laomedeia, Neso"
+Planet_Info,What moons do Neptune have,"Triton, Nereid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Halimede, Psamathe, Sao, Laomedeia, Neso"
+Planet_Info,What is Neptunes revolution period,164.8 Earth years
+Planet_Info,What is the Neptunes revolution period,164.8 Earth years
+Planet_Info,What is revolution period of the Neptune ,164.8 Earth years
+Planet_Info,What is the revolution period of the Neptune ,164.8 Earth years
+Planet_Info,What is the revolution period of Neptune ,164.8 Earth years
+Planet_Info,What is revolution period of Neptune ,164.8 Earth years
+Planet_Info,What is Neptunes rotation period,16.1 hours
+Planet_Info,What is the Neptunes rotation period,16.1 hours
+Planet_Info,What is rotation period of the Neptune ,16.1 hours
+Planet_Info,What is the rotation period of the Neptune ,16.1 hours
+Planet_Info,What is the rotation period of Neptune ,16.1 hours
+Planet_Info,What is rotation period of Neptune ,16.1 hours
+Planet_Info,What is Neptunes size (diameter),"49,244 km"
+Planet_Info,What is the Neptunes size (diameter),"49,244 km"
+Planet_Info,What is size (diameter) of the Neptune ,"49,244 km"
+Planet_Info,What is the size (diameter) of the Neptune ,"49,244 km"
+Planet_Info,What is the size (diameter) of Neptune ,"49,244 km"
+Planet_Info,What is size (diameter) of Neptune ,"49,244 km"
+Planet_Info,What is Neptunes gravity,11.15 m/s²
+Planet_Info,What is the Neptunes gravity,11.15 m/s²
+Planet_Info,What is gravity of the Neptune ,11.15 m/s²
+Planet_Info,What is the gravity of the Neptune ,11.15 m/s²
+Planet_Info,What is the gravity of Neptune ,11.15 m/s²
+Planet_Info,What is gravity of Neptune ,11.15 m/s²
+Planet_Info,What is Neptunes mass,1.02 x 10^26 kg
+Planet_Info,What is the Neptunes mass,1.02 x 10^26 kg
+Planet_Info,What is mass of the Neptune ,1.02 x 10^26 kg
+Planet_Info,What is the mass of the Neptune ,1.02 x 10^26 kg
+Planet_Info,What is the mass of Neptune ,1.02 x 10^26 kg
+Planet_Info,What is mass of Neptune ,1.02 x 10^26 kg
+Planet_Info,What is Neptunes atmosphere composition,"Mostly hydrogen, helium, and methane"
+Planet_Info,What is the Neptunes atmosphere composition,"Mostly hydrogen, helium, and methane"
+Planet_Info,What is atmosphere composition of the Neptune ,"Mostly hydrogen, helium, and methane"
+Planet_Info,What is the atmosphere composition of the Neptune ,"Mostly hydrogen, helium, and methane"
+Planet_Info,What is the atmosphere composition of Neptune ,"Mostly hydrogen, helium, and methane"
+Planet_Info,What is atmosphere composition of Neptune ,"Mostly hydrogen, helium, and methane"
+Planet_Info,What is Neptunes number of moons,14
+Planet_Info,What is the Neptunes number of moons,14
+Planet_Info,What is number of moons of the Neptune ,14
+Planet_Info,What is the number of moons of the Neptune ,14
+Planet_Info,What is the number of moons of Neptune ,14
+Planet_Info,What is number of moons of Neptune ,14

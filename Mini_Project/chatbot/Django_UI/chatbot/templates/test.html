@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Chatbot</title>
+</head>
+<body>
+    <h1>Test Your Chatbot</h1>
+    <form method="POST">
+        {% csrf_token %}
+        <label for="question">Ask a question:</label>
+        <input type="text" id="question" name="question" placeholder="Type your question here" style="width: 90%; height: 40px;" required><br><br>
+        <button type="submit">Get Answer</button>
+    </form>
+
+    <!-- Display chatbot response -->
+    {% if response %}
+        <h2>Chatbot Response:</h2>
+        <p>{{ response.answer }}</p>
+    {% endif %}
+</body>
+</html>

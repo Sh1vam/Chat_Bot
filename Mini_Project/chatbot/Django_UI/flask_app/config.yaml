@@ -1,0 +1,21 @@
+model_params:
+  lstm_units: 128
+  dropout_rate: 0.3
+  recurrent_dropout: 0.3
+  embedding_dim: 128
+  max_epochs: 50
+  batch_size: 32
+  max_epochs_final: 11
+
+training_params:
+  validation_split: 0.2
+  early_stopping_patience: 5
+  monitor_metric: 'val_loss'
+
+tokenizer_params:
+  oov_token: '<OOV>'
+  padding_type: 'post'
+
+optimizer_params:
+    learning_rate: 0.0001
+    min_learning_rate: 0.0001

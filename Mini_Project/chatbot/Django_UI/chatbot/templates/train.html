@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Train Chatbot Model</title>
+</head>
+<body>
+    <h1>Train Chatbot Model</h1>
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        
+        <!-- CSV file upload -->
+        <label for="csv_file">Upload CSV File:</label>
+        <input type="file" id="csv_file" name="csv_file" required><br><br>
+
+        <!-- Model Parameters -->
+        <h3>Model Parameters:</h3>
+
+        <label for="batch_size">Batch Size:</label>
+        <input type="number" id="batch_size" name="batch_size" value="16" placeholder="Default: 16"><br><br>
+
+        <label for="max_epochs">Max Epochs:</label>
+        <input type="number" id="max_epochs" name="max_epochs" value="50" placeholder="Default: 50"><br><br>
+
+        <label for="lstm_units">LSTM Units:</label>
+        <input type="number" id="lstm_units" name="lstm_units" value="128" placeholder="Default: 128"><br><br>
+
+        <label for="dropout_rate">Dropout Rate:</label>
+        <input type="number" step="0.01" id="dropout_rate" name="dropout_rate" value="0.3" placeholder="Default: 0.3"><br><br>
+
+        <label for="recurrent_dropout">Recurrent Dropout:</label>
+        <input type="number" step="0.01" id="recurrent_dropout" name="recurrent_dropout" value="0.3" placeholder="Default: 0.3"><br><br>
+
+        <label for="embedding_dim">Embedding Dimension:</label>
+        <input type="number" id="embedding_dim" name="embedding_dim" value="128" placeholder="Default: 128"><br><br>
+
+        <!-- Training Parameters -->
+        <h3>Training Parameters:</h3>
+
+        <label for="validation_split">Validation Split:</label>
+        <input type="number" step="0.01" id="validation_split" name="validation_split" value="0.2" placeholder="Default: 0.2"><br><br>
+
+        <label for="early_stopping_patience">Early Stopping Patience:</label>
+        <input type="number" id="early_stopping_patience" name="early_stopping_patience" value="5" placeholder="Default: 5"><br><br>
+
+        <label for="monitor_metric">Monitor Metric:</label>
+        <input type="text" id="monitor_metric" name="monitor_metric" value="val_loss" placeholder="Default: 'val_loss'"><br><br>
+		
+		<h3>Tokenizer Parameters:</h3>
+
+        <label for="oov_token">OOV Token:</label>
+        <input type="text" id="oov_token" name="oov_token" value="<OOV>" placeholder="Default: '<OOV>'"><br><br>
+		
+        <label for="padding_type">Padding Type:</label>
+        <input type="text" id="padding_type" name="padding_type" value="post" placeholder="Default: 'post'"><br><br>
+		
+		<h3>Optimizer & Callback Parameters</h3>
+		
+		<label for="recurrent_dropout">Learning Rate:</label>
+        <input type="number" step="0.001" id="learning_rate" name="learning_rate" value="0.3" placeholder="Default: 0.0001"><br><br>
+		<label for="recurrent_dropout">Minimum Learning Rate:</label>
+        <input type="number" step="0.001" id="min_learning_rate" name="min_learning_rate" value="0.3" placeholder="Default: 0.0001"><br><br>
+		
+        <button type="submit">Train Model</button>
+    </form>
+
+    <!-- Display response from the server -->
+    {% if response %}
+        <h2>Training Result</h2>
+        <p>Final Training Accuracy: {{ response.train_accuracy }}</p>
+        <p>Final Validation Accuracy: {{ response.val_accuracy }}</p>
+        <p>Final Training Loss: {{ response.train_loss }}</p>
+        <p>Final Validation Loss: {{ response.val_loss }}</p>
+        <h3>Download your model and graph:</h3>
+		<h3>Download your model and graph:</h3>
+        <a href="{% url 'download_model' %}">Download Model Files</a>
+        
+        <h3>Training Graph:</h3>
+        <img src="http://127.0.0.1:5000/graph/training_plot.png" alt="Training Graph" style="width: 600px;">
+    {% endif %}
+</body>
+</html>
